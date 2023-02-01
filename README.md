@@ -1,1 +1,2 @@
-# PyTestAutomation
+# PyTest Automation
+Pytest is a testing framework for Python. It provides a simple way to write and execute tests for your code, including unit tests, functional tests, and integration tests. Pytest makes it easy to discover and run tests, as well as to write tests in a readable and maintainable way. Pytest supports fixtures, which are reusable objects that can be used to set up test data, and it also provides a rich set of built-in assert functions to test the behavior of your code. Additionally, Pytest has a plugin system that enables users to extend its functionality with custom functionality.
