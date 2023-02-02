@@ -3,6 +3,9 @@ Pytest is a testing framework for Python. It provides a simple way to write and 
 
 Here are some of the most commonly used pytest commands:
 
+    To install pytest --- pip install pytest
+    Note: All pytest files and functions should either start or end with the "test" keyword
+
     pytest - runs all tests in the current directory and subdirectories
     pytest <file_name> - runs all tests in the specified file
     pytest <file_name>::<function_name> - runs a specific test function in the specified file
