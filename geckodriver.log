@@ -70,3 +70,55 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 DevTools listening on ws://127.0.0.1:51791/devtools/browser/89b063cf-bdf8-4b93-85ef-53a408cdd396
 1675328830353	Marionette	INFO	Stopped listening on port 51800
 Dynamically enable window occlusion 1
+1675440192465	geckodriver	INFO	Listening on 127.0.0.1:56147
+1675440195539	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56148" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHAKIR~1.LAP\\AppData\\Local\\Temp\\rust_mozprofileF3Jncn"
+1675440195858	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675440195863	Marionette	INFO	Listening on port 56161
+Read port: 56161
+WebDriver BiDi listening on ws://127.0.0.1:56148
+1675440196001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHAKIR~1.LAP\\AppData\\Local\\Temp\\rust_mozprofileF3Jncn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56148/devtools/browser/bf0257b0-1136-45d0-8b72-8309413c26b6
+1675440228011	Marionette	INFO	Stopped listening on port 56161
+Dynamically enable window occlusion 1
+1675442573313	geckodriver	INFO	Listening on 127.0.0.1:57349
+1675442576363	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57350" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHAKIR~1.LAP\\AppData\\Local\\Temp\\rust_mozprofileStrlbF"
+1675442576758	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675442576766	Marionette	INFO	Listening on port 57359
+Read port: 57359
+WebDriver BiDi listening on ws://127.0.0.1:57350
+1675442576962	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHAKIR~1.LAP\\AppData\\Local\\Temp\\rust_mozprofileStrlbF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57350/devtools/browser/c0369680-4eaa-40f1-8bd4-e37f851b803f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.hubspot.com."
+1675442581653	Marionette	INFO	Stopped listening on port 57359
+Dynamically enable window occlusion 1
+1675442817696	geckodriver	INFO	Listening on 127.0.0.1:57530
+1675442820736	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57531" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHAKIR~1.LAP\\AppData\\Local\\Temp\\rust_mozprofileLSfoIA"
+1675442821130	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675442821138	Marionette	INFO	Listening on port 57539
+Read port: 57539
+WebDriver BiDi listening on ws://127.0.0.1:57531
+1675442821333	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHAKIR~1.LAP\\AppData\\Local\\Temp\\rust_mozprofileLSfoIA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57531/devtools/browser/fa4079f4-383f-4ea2-8610-b44cba625b34
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.hubspot.com."
+1675442826745	Marionette	INFO	Stopped listening on port 57539
+Dynamically enable window occlusion 1
+1675526511383	geckodriver	INFO	Listening on 127.0.0.1:56880
+1675526514421	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56881" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHAKIR~1.LAP\\AppData\\Local\\Temp\\rust_mozprofilexdu36W"
+1675526514942	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675526514947	Marionette	INFO	Listening on port 56888
+Read port: 56888
+WebDriver BiDi listening on ws://127.0.0.1:56881
+1675526515094	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHAKIR~1.LAP\\AppData\\Local\\Temp\\rust_mozprofilexdu36W\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56881/devtools/browser/1cd4b3e8-01c4-4a4a-8ad5-97aee409345b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.hubspot.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.hubspot.com."
+1675526522534	Marionette	INFO	Stopped listening on port 56888
+Dynamically enable window occlusion 1
